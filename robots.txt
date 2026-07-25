@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://matchbybirth-traffic.github.io/sitemap.xml
