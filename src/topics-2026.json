@@ -1,0 +1,32 @@
+{
+  "year": 2026,
+  "events": [
+    { "date": "2026-01-26", "name": "Neptune enters Aries", "slug": "neptune-in-aries-2026", "keyword": "Neptune in Aries 2026", "angle": "what the generational shift means for how we dream and act", "category": "seasonal" },
+    { "date": "2026-02-13", "name": "Saturn enters Aries", "slug": "saturn-in-aries-2026", "keyword": "Saturn in Aries 2026", "angle": "discipline meets impulse, and how to build under it", "category": "seasonal" },
+    { "date": "2026-02-20", "name": "Saturn conjunct Neptune", "slug": "saturn-neptune-conjunction-2026", "keyword": "Saturn Neptune conjunction 2026", "angle": "structure meets illusion at 0° Aries", "category": "seasonal" },
+    { "date": "2026-02-17", "name": "Solar Eclipse in Aquarius", "slug": "solar-eclipse-aquarius-2026", "keyword": "Solar eclipse Aquarius 2026", "angle": "relationship plot twists on the friendship axis", "category": "seasonal" },
+    { "date": "2026-03-03", "name": "Lunar Eclipse in Virgo", "slug": "lunar-eclipse-virgo-2026", "keyword": "Lunar eclipse Virgo 2026", "angle": "releasing self-criticism in how you relate", "category": "seasonal" },
+    { "date": "2026-02-25", "name": "Mercury retrograde (Pisces)", "slug": "mercury-retrograde-pisces-2026", "keyword": "Mercury retrograde Pisces 2026", "angle": "miscommunicated feelings and how to repair", "category": "seasonal" },
+    { "date": "2026-04-25", "name": "Uranus enters Gemini", "slug": "uranus-in-gemini-2026", "keyword": "Uranus in Gemini 2026", "angle": "how sudden change reshapes communication in couples", "category": "seasonal" },
+    { "date": "2026-05-06", "name": "Pluto retrograde", "slug": "pluto-retrograde-2026", "keyword": "Pluto retrograde 2026", "angle": "power and control themes under review", "category": "seasonal" },
+    { "date": "2026-06-29", "name": "Mercury retrograde (Cancer)", "slug": "mercury-retrograde-cancer-2026", "keyword": "Mercury retrograde Cancer 2026", "angle": "family and emotional texts gone sideways", "category": "seasonal" },
+    { "date": "2026-06-30", "name": "Jupiter enters Leo", "slug": "jupiter-in-leo-2026", "keyword": "Jupiter in Leo 2026", "angle": "expansion through expressive, generous love", "category": "seasonal" },
+    { "date": "2026-07-07", "name": "Neptune retrograde", "slug": "neptune-retrograde-2026", "keyword": "Neptune retrograde 2026", "angle": "when the romance fog clears", "category": "seasonal" },
+    { "date": "2026-07-26", "name": "Saturn retrograde", "slug": "saturn-retrograde-2026", "keyword": "Saturn retrograde 2026", "angle": "recommitting to the relationship you actually want", "category": "seasonal" },
+    { "date": "2026-08-12", "name": "Solar Eclipse in Leo", "slug": "solar-eclipse-leo-2026", "keyword": "Solar eclipse Leo 2026", "angle": "dropping self-centered habits in love", "category": "seasonal" },
+    { "date": "2026-08-27", "name": "Lunar Eclipse in Pisces", "slug": "lunar-eclipse-pisces-2026", "keyword": "Lunar eclipse Pisces 2026", "angle": "facing escapist patterns in partnerships", "category": "seasonal" },
+    { "date": "2026-09-10", "name": "Uranus retrograde", "slug": "uranus-retrograde-2026", "keyword": "Uranus retrograde 2026", "angle": "steady surprises: reviewing the changes you made", "category": "seasonal" },
+    { "date": "2026-10-03", "name": "Venus retrograde (Scorpio/Libra)", "slug": "venus-retrograde-2026", "keyword": "Venus retrograde 2026", "angle": "reassessing desire, power, and people-pleasing", "category": "seasonal" },
+    { "date": "2026-10-24", "name": "Mercury retrograde (Scorpio)", "slug": "mercury-retrograde-scorpio-2026", "keyword": "Mercury retrograde Scorpio 2026", "angle": "unspoken truths surface in tense talks", "category": "seasonal" },
+    { "date": "2026-12-12", "name": "Jupiter retrograde", "slug": "jupiter-retrograde-2026", "keyword": "Jupiter retrograde 2026", "angle": "slowing the growth story to make it real", "category": "seasonal" }
+  ],
+  "evergreen": [
+    { "slug": "how-to-read-a-synastry-chart", "keyword": "how to read a synastry chart", "angle": "step-by-step for beginners", "category": "learn-astrology", "title": "How to Read a Synastry Chart (Without the Jargon)" },
+    { "slug": "why-birth-time-matters-in-compatibility", "keyword": "why birth time matters compatibility", "angle": "exact time changes the read", "category": "learn-astrology", "title": "Why Birth Time Changes Your Compatibility Read" },
+    { "slug": "venus-sign-love-style", "keyword": "Venus sign love style", "angle": "how you love by Venus placement", "category": "learn-astrology", "title": "What Your Venus Sign Says About How You Love" },
+    { "slug": "chemistry-vs-compatibility", "keyword": "chemistry vs compatibility", "angle": "spark versus real fit", "category": "relationships", "title": "Chemistry vs Compatibility: How to Tell the Difference" },
+    { "slug": "moon-sign-vs-sun-sign", "keyword": "moon sign vs sun sign", "angle": "the inner vs outer you in relationships", "category": "moon-signs", "title": "Moon Sign vs Sun Sign in Love" },
+    { "slug": "life-path-number-compatibility", "keyword": "life path number compatibility", "angle": "numerology angle on fit", "category": "numerology", "title": "Life Path Number Compatibility: A Numerology View" }
+  ],
+  "note": "Dates verified from multiple public 2026 astrology forecasts. Update yearly. Seasonal posts schedule N days before each event (see queue.js)."
+}

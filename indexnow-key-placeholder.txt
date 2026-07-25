@@ -1,0 +1,4 @@
+# Replace this filename and contents with your IndexNow key file.
+# Example: if your key is 3ba4a20e333342ba8eea9933dfa9bab2,
+# name this file 3ba4a20e333342ba8eea9933dfa9bab2.txt and put the key inside.
+REPLACE_WITH_INDEXNOW_KEY

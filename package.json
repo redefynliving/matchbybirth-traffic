@@ -1,0 +1,17 @@
+{
+  "name": "matchbybirth-traffic",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Free GitHub Pages astrology/compatibility traffic engine that funnels high-intent search traffic to MatchByBirth premium.",
+  "scripts": {
+    "build": "node src/build.js",
+    "cron": "node src/build.js --cron",
+    "draft": "node src/editorial.js --draft-next",
+    "indexnow": "node src/indexnow.js",
+    "check": "node src/slop-check.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
